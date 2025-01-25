@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #000300;
+}
+
+.btn-primary{
+  background-color: #00DF9A;
+  color: black
+}
+.btn-secondary{
+  background-color: black;
+  color: #00DF9A;
+}
