@@ -12,7 +12,7 @@ function Navbar() {
     <div className=' flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white'>
          <div className="avatar mr-2 ml-4">
                 <div className="ring-primary ring-offset-base-100 w-10 rounded-full ring ring-offset-2">
-                    <img src={baas} />
+                    <img src={baas} alt="img" />
                 </div>
             </div>
         <h1 className='w-full text-3xl font-bold text-[#00DF9A]'>BAAS.</h1>
