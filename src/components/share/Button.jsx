@@ -1,4 +1,3 @@
-import PropTypes from 'prop-types'
 
 function Button({children, type, version, styles }) {
 
